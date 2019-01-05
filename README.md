@@ -1,5 +1,7 @@
-********************************
-Colorize_grow Project, C++
+---
+# Colorize_grow Project, C++
+
+## **Deprecated/ancient school project.**
 
 This is one route I took for an image colorization 
 project, wherein the user takes a greyscale image,
@@ -16,9 +18,8 @@ This was a rushed version of this type of algorithm;
 optimally, it would work properly if combined with 
 a smart-masking system.
 
-Requirements: NetPBM Suite (installed on most Linux
-distributions by default), make and G++/GCC.
+----
+## Requirements
 
-Licensing: Fully open; defer to the licensing for C++ standard
-libraries and the NetPBM libraries.
-**********************************
+NetPBM Suite (installed on most Linux distributions by default), make and G++/GCC.
+----
